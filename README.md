@@ -1,6 +1,9 @@
 # 🎮guess-my-number
 A fun JavaScript game where you try to guess a number between 1 and 20.
 
+## 💻 Play It Live
+👉 [Click here to play]( https://mahmoud-codeee.github.io/guess-my-number/)
+
 ## 🕹️ How to Play
 
 - The computer picks a random number between **1 and 20**.
