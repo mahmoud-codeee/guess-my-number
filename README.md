@@ -16,3 +16,7 @@ A fun JavaScript game where you try to guess a number between 1 and 20.
 - Try to win with the highest score possible!
 
 ---
+## 👨‍💻 Built With
+- HTML
+- CSS
+- JavaScript
