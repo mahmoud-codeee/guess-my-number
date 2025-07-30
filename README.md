@@ -1,11 +1,15 @@
-# guess-my-number
+# 🎮guess-my-number
 A fun JavaScript game where you try to guess a number between 1 and 20.
 
-# 🎮 Guess My Number!
-## ✅ How to Play
-1. Enter a number between 1 and 20.
-2. Click "Check!" to see if you’re right.
-3. Keep guessing until you find the secret number.
-4. Try to win with the highest score possible!
+## 🕹️ How to Play
 
+- The computer picks a random number between **1 and 20**.
+- You type your guess into the box and click **"Check!"**.
+- You'll get a hint:
+  - 📈 Too high!
+  - 📉 Too low!
+  - 🎉 Correct number!
+- You start with a score of **20** and lose 1 point for each wrong guess.
+- Try to win with the highest score possible!
 
+---
